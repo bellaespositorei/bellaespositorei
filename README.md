@@ -3,7 +3,7 @@
 ## Olá, galera! Eu sou a Bella Espósito 👋
 
 - 💻 Sou dev front-end (e desenvolvedora fullstack em formação)
-- 🌱 Atualmente estou estudando Java + MySQL no bootcamp da Generation Brasil
+- 🌱 Atualmente estou estudando Java + MySQL + SpringBoot no bootcamp da Generation Brasil
 - 😄 Meus pronomes são ela/dela
 - 📚 Estou no 2º período de Análise e Desenvolvimento de Sistemas
 
