@@ -2,10 +2,10 @@
 
 ## Olá, galera! Eu sou a Bella Espósito 👋
 
-- 💻 Sou dev front-end (e desenvolvedora fullstack em formação)
-- 🌱 Atualmente estou estudando Java + MySQL + SpringBoot no bootcamp da Generation Brasil
+- 💻 Sou dev front-end em formação.
+- 🌱 Atualmente estou estudando React, Next.js e Nest.js
 - 😄 Meus pronomes são ela/dela
-- 📚 Estou no 2º período de Análise e Desenvolvimento de Sistemas
+- 📚 Estou no 6º período de Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/bellaespositorei">
